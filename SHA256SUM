@@ -1,28 +1,10 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA1
-
-# created Wed Aug 28 00:11:09 CEST 2019 
+# created Wed Aug 28 01:21:32 CEST 2019 
 #
 # verify with:
 #    sha256sum -c SHA256SUM
 #    gpg --verify SHA256SUM
 #
 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986  LICENSE
-3926daa2c55513e54a2e3d68080740f10cdc0485dff895ce06e780f7f05deaa4  README.md
-#      2       4     150
------BEGIN PGP SIGNATURE-----
-
-iQIcBAEBAgAGBQJdZaqPAAoJEPsHD5w0V3EaQeEP/i+ik/0jFuT5aK5LRBippRP1
-o+L0pHK0Sl2tmUO/1HKJrzG07zKzK84JB6mV2bH5QS8Z+99kZggUMBjpg7s1Z1mC
-oA4kfT5gju4deKmWzx9cV3gb3N8znppUPeBD84L4y84BjlOfZR6Z1g9RAejXl+HC
-s0h5NKs0NbHAwFQsuuWljGwd5VWrZL/mjjh6VaRil3nGsp+n1X8cUroK/xS7kOOU
-u+6H30xjwl4wb2XNKAHqW6v/qjALlNyTdMWrXgdhdIM3tMGi+BGMy5zpqvUsc4AM
-hcJIAtz9aFX5iWZ8fIQpK+j+VpPpZ2hIubxq+kOJG6TyahR8eDn6tGFty/TRECrp
-9csHai5S2gE7Xk7xlFQMdhwqfMtPJZC6xA19kPRw/F9hJbt6zv3GG+fdTBlMnqmL
-Clzg8ysI0epAzsnRQH82KCj7o5VlToLqRJvlNMpQm5ralQfIPqse3gfXol9WdB+m
-z7c2XmOnq69LkzTcHUrB1U0KEze4PT1uvLe0u1SntTkLRxwSuOlLgGQIVmAoKjMh
-YRPsvfjlbeyGwKwB7tIc/+ZxiHfhury0HClrpLk/TmJIGZ8f68Qgjb2gW68b4Ax0
-SHWfq0uOg2gTJrojpOMbZ6KzZRh1dnoIU+zoeUM1H7GXNHuY1++eL0OSeS1OIqUd
-7iRku9OunZjRFxILquM0
-=yBLW
------END PGP SIGNATURE-----
+213918dc1c30fc08b4df5575f32dfb2397dba73065aceeeea793fabc96d14498  README.md
+07acbd1a433f22f989e3576c3e19fa0fcc1cedeefd13073323480dce88de559b  pic5.png
+#      3       6     225
